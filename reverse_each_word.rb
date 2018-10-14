@@ -1,4 +1,4 @@
-sentence = "I want my code to work pls".split
+sentence = "".split
 
 def reverse_each_word(sentence)
   sentence.each do |x|
