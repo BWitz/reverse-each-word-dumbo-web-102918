@@ -1,6 +1,6 @@
-sentence1 = ["I", "want", "my", "code", "to", "work", "pls"]
+sentence = "I want my code to work pls"
 
-def reverse_each_word(sentence1)
+def reverse_each_word(sentence)
   sentence1.each do |x|
     puts "#{reverse_each_word(x).reverse}"
   end
