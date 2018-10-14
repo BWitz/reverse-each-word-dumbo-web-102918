@@ -1,4 +1,4 @@
-sentence = "I want my code to work pls"
+sentence = ["I want my code to work pls"]
 
 def reverse_each_word(sentence)
   sentence.each do |x|
